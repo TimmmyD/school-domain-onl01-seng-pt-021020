@@ -10,7 +10,7 @@ end
 
 
 
-school = School.new("Bayside High School")
+school = school.new("Bayside High School")
 school.roster
 school.add_student("Zach Morris", 9)
 school.add_student("Moshe Zeus", 9)
@@ -23,5 +23,3 @@ school.add_student("Abbah Zabbah", 2)
 school.roster
 school.grade(9)
 school.sort
-
-end 
