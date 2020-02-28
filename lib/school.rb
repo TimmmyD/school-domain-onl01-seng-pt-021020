@@ -3,9 +3,9 @@
   roster.each do |x, y| 
     new_hash[x] = y.sort 
   end 
-  
- end  
   new_hash 
+ end  
+  
 end 
 
 
