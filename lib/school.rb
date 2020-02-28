@@ -6,6 +6,7 @@ def sort
   new_hash
 end 
 
+end 
 
 
 school = School.new("Bayside High School")
